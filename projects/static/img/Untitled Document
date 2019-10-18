@@ -1,0 +1,2 @@
+p2 = Project(title='Treat',description='Treat is a responsive cloud-based restaurant management software',technology='PHP, JavaScript, MySQL, Bootstrap, LAMP ',image='img/project13.png')
+
